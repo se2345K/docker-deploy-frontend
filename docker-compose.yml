@@ -3,4 +3,4 @@ services:
   frontend:
     image: thanaphat14/234-deploylab-frontend:latest
     ports:
-      - "8086:80"
+      - "8087:80"
